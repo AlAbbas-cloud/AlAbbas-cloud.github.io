@@ -11,8 +11,7 @@ Brisbane, Australia
 
 ## About Me
 
-I’m a cybersecurity learner transitioning from 20 years in diagnostics and electrical systems into defensive security, SOC workflows, and automation.  
-I focus on practical, hands‑on projects that demonstrate real technical capability — not theory.
+I’m a cybersecurity learner transitioning from 20 years in diagnostics and electrical systems into defensive security, SOC workflows, and automation. I focus on practical, hands‑on projects that demonstrate real technical capability - not theory.
 
 My work blends:
 
