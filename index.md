@@ -1,6 +1,6 @@
 ---
-title: "Ali Abbas — Cybersecurity Generalist"
-layout: custom
+title: "Ali Abbas - Cybersecurity Generalist"
+layout: default
 ---
 
 # Ali Abbas  
