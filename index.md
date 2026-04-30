@@ -54,7 +54,7 @@ This repo demonstrates practical detection engineering, event analysis, and thre
 
 ## Cybersecurity Projects  
 
-### 🛡️ SOC & Defensive Security  
+### SOC & Defensive Security  
 **SQL & Splunk Analysis Project**  
 A combined SQL + Splunk investigation into failed logins, suspicious activity, and log correlation.
 
