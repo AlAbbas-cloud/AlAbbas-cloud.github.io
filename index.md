@@ -62,6 +62,7 @@ A combined SQL + Splunk investigation into failed logins, suspicious activity, a
 - Splunk dashboards  
 - Event correlation  
 - Attack pattern identification  
+
 🔗 **Repo:** [sql-and-splunk-analysis](https://github.com/AlAbbas-cloud/sql-and-splunk-analysis) 
 
 ---
@@ -72,6 +73,7 @@ A practical penetration testing project exploring Wi‑Fi security, encryption, 
 - WPA2 cracking  
 - Rogue AP detection  
 - Packet capture analysis  
+
 🔗 **Repo:** [wireless-security-lab*](https://github.com/AlAbbas-cloud/wifi-wep-wpa-cracking-lab)  
 
 *(More pentesting repos coming soon — enumeration, exploitation, web security, etc.)*
@@ -106,6 +108,7 @@ A cross‑platform automation tool for Windows and Linux that collects detailed 
 - Debugging documentation  
 - Architecture diagram  
 - Zero third‑party dependencies   
+
 🔗 Repo: [computer-fingerprint-collector](https://github.com/AlAbbas-cloud/computer-fingerprint-collector)
 
 ---
