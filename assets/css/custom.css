@@ -1,0 +1,42 @@
+/* Global background & text */
+body {
+  background: #050814;
+  color: #e5f0ff;
+}
+
+/* Links */
+a {
+  color: #4fd1ff;
+}
+
+a:hover {
+  color: #7ae0ff;
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #9bd5ff;
+}
+
+/* Section dividers */
+hr {
+  border-color: #1b2a3d;
+}
+
+/* Code / inline code */
+code {
+  background: #0b1020;
+  color: #9bd5ff;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* “Card” feel for sections */
+main {
+  max-width: 900px;
+}
+
+main > * {
+  background: #050814;
+}
