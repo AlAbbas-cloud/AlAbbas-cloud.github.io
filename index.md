@@ -1,6 +1,6 @@
 ---
 title: "Ali Abbas — Cybersecurity & Automation"
-layout: default
+layout: custom
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
