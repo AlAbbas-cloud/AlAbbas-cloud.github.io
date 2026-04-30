@@ -124,3 +124,33 @@ footer {
   color: #7acbff !important;
   opacity: 0.8;
 }
+
+/* ============================================================
+   FIX TEXT READABILITY — FORCE HIGH CONTRAST
+   ============================================================ */
+
+.main-content,
+.main-content p,
+.main-content li,
+.main-content span,
+.main-content strong,
+.main-content em {
+  color: #d8e9ff !important;
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: #9bd5ff !important;
+}
+
+/* Links */
+.main-content a {
+  color: #4fd1ff !important;
+}
+
+.main-content a:hover {
+  color: #9be6ff !important;
+}
