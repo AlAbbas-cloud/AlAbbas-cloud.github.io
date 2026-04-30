@@ -1,54 +1,126 @@
-/* GLOBAL BACKGROUND + TEXT */
-body, html {
+/* ============================================================
+   GLOBAL OVERRIDES — FORCE CYBER BLUE THEME
+   ============================================================ */
+
+html, body, .wrapper, .main-content {
   background-color: #050814 !important;
   color: #d8e9ff !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+               Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-/* HEADINGS */
-h1, h2, h3, h4, h5 {
+/* ============================================================
+   HEADINGS — CYBER BLUE ACCENT
+   ============================================================ */
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5 {
   color: #7acbff !important;
-  font-weight: 600;
+  font-weight: 600 !important;
+  border-bottom: 1px solid #1b2a3d;
+  padding-bottom: 4px;
 }
 
-/* LINKS */
-a {
+/* Remove Slate’s default heading borders */
+.main-content h1::after,
+.main-content h2::after {
+  border: none !important;
+}
+
+/* ============================================================
+   TEXT — HIGH CONTRAST READABILITY
+   ============================================================ */
+
+.main-content p,
+.main-content li,
+.main-content span {
+  color: #d8e9ff !important;
+  line-height: 1.6;
+}
+
+/* ============================================================
+   LINKS — CYBER GLOW
+   ============================================================ */
+
+.main-content a {
   color: #4fd1ff !important;
+  font-weight: 500;
 }
 
-a:hover {
+.main-content a:hover {
   color: #9be6ff !important;
-  text-decoration: underline;
+  text-shadow: 0 0 6px #4fd1ff;
 }
 
-/* PARAGRAPH TEXT */
-p {
-  color: #d8e9ff !important;
-}
+/* ============================================================
+   CODE BLOCKS — DARK PANEL STYLE
+   ============================================================ */
 
-/* LIST ITEMS */
-li {
-  color: #d8e9ff !important;
-}
-
-/* CODE BLOCKS */
-code, pre {
+pre, code {
   background: #0b1020 !important;
   color: #9bd5ff !important;
-  border-radius: 4px;
+  border-radius: 6px !important;
+  padding: 6px 10px !important;
+  border: 1px solid #1b2a3d !important;
 }
 
-/* MAIN CONTENT WIDTH */
-main {
-  max-width: 900px;
-  margin: auto;
+/* ============================================================
+   SECTION PANELS — SOC DASHBOARD FEEL
+   ============================================================ */
+
+.main-content > * {
+  background: #070b18 !important;
+  padding: 20px 25px !important;
+  margin-bottom: 25px !important;
+  border-radius: 8px !important;
+  border: 1px solid #0f1625 !important;
+  box-shadow: 0 0 12px rgba(0, 180, 255, 0.05);
 }
 
-/* SECTION SPACING */
-section, article, main > * {
-  margin-bottom: 30px;
+/* Remove panel styling from the main title block */
+.main-content > h1:first-of-type {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin-bottom: 10px !important;
 }
 
-/* HR DIVIDERS */
+/* ============================================================
+   HORIZONTAL RULES
+   ============================================================ */
+
 hr {
   border-color: #1b2a3d !important;
+}
+
+/* ============================================================
+   TABLES (if you add any later)
+   ============================================================ */
+
+table {
+  background: #0b1020 !important;
+  color: #d8e9ff !important;
+  border: 1px solid #1b2a3d !important;
+}
+
+th {
+  background: #0f1625 !important;
+  color: #7acbff !important;
+}
+
+td {
+  border-top: 1px solid #1b2a3d !important;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+footer {
+  color: #7acbff !important;
+  opacity: 0.8;
 }
