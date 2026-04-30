@@ -47,7 +47,7 @@ A combined SQL + Splunk investigation into failed logins, suspicious activity, a
 - Event correlation  
 - Attack pattern identification  
 
-🔗 **Repo:** *sql-and-splunk-analysis*
+🔗 **Repo:** [sql-and-splunk-analysis](https://github.com/AlAbbas-cloud/sql-and-splunk-analysis)
 
 ---
 
@@ -58,7 +58,7 @@ A practical exploration of Wi‑Fi security, encryption, and attack surfaces.
 - Rogue AP detection  
 - Packet capture analysis  
 
-🔗 **Repo:** *wireless-security-lab*
+🔗 **Repo:** [wireless-security-lab*](https://github.com/AlAbbas-cloud/wifi-wep-wpa-cracking-lab)
 
 ---
 
@@ -71,7 +71,7 @@ A foundational networking and security project covering:
 - Packet Tracer labs  
 - Real‑world attack research  
 
-🔗 **Repo:** *network-concepts-and-protocols-lab*
+🔗 **Repo:** [network-concepts-and-protocols-lab*](https://github.com/AlAbbas-cloud/network-concepts-and-protocols-lab)
 
 ---
 
