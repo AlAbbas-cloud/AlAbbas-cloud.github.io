@@ -26,6 +26,17 @@ My work blends:
 
 ## Cybersecurity Projects
 
+### **Sysmon for SOC Analysts**  
+A full Sysmon detection and hunting project demonstrating practical SOC workflows:
+
+- Event ID analysis  
+- Malware & persistence hunting  
+- Evasion detection  
+- PowerShell automation scripts  
+- Visual diagrams & MITRE ATT&CK mapping  
+
+🔗 **Repo**: [sysmon-for-soc-analysts](https://github.com/AlAbbas-cloud/sysmon-for-soc-analysts)
+
 ### **Computer Fingerprint Collector (Python Automation)**
 A cross‑platform automation tool for Windows and Linux that collects detailed system and network information.
 
