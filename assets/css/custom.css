@@ -1,42 +1,54 @@
-/* Global background & text */
-body {
-  background: #050814;
-  color: #e5f0ff;
+/* GLOBAL BACKGROUND + TEXT */
+body, html {
+  background-color: #050814 !important;
+  color: #d8e9ff !important;
 }
 
-/* Links */
+/* HEADINGS */
+h1, h2, h3, h4, h5 {
+  color: #7acbff !important;
+  font-weight: 600;
+}
+
+/* LINKS */
 a {
-  color: #4fd1ff;
+  color: #4fd1ff !important;
 }
 
 a:hover {
-  color: #7ae0ff;
+  color: #9be6ff !important;
   text-decoration: underline;
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-  color: #9bd5ff;
+/* PARAGRAPH TEXT */
+p {
+  color: #d8e9ff !important;
 }
 
-/* Section dividers */
-hr {
-  border-color: #1b2a3d;
+/* LIST ITEMS */
+li {
+  color: #d8e9ff !important;
 }
 
-/* Code / inline code */
-code {
-  background: #0b1020;
-  color: #9bd5ff;
-  padding: 2px 4px;
-  border-radius: 3px;
+/* CODE BLOCKS */
+code, pre {
+  background: #0b1020 !important;
+  color: #9bd5ff !important;
+  border-radius: 4px;
 }
 
-/* “Card” feel for sections */
+/* MAIN CONTENT WIDTH */
 main {
   max-width: 900px;
+  margin: auto;
 }
 
-main > * {
-  background: #050814;
+/* SECTION SPACING */
+section, article, main > * {
+  margin-bottom: 30px;
+}
+
+/* HR DIVIDERS */
+hr {
+  border-color: #1b2a3d !important;
 }
