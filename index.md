@@ -1,9 +1,7 @@
 ---
 title: "Ali Abbas — Cybersecurity & Automation"
-layout: custom
+layout: default
 ---
-
-<link rel="stylesheet" href="/assets/css/custom.css">
 
 # Ali Abbas  
 ### Cybersecurity • Automation • SOC Foundations  
